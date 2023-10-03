@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ROS3M00N or Lucas Dutra!
-- 👀 I’m interested in Game Development, Cybersecurity and Pixel Art. 
-- 🌱 I’m currently learning various programing languages: C, C#, C++ and JavaScript. 
-- 📫 How to reach me: Email: lucas.dutra7162@gmail.com
-
-<!---
-ROS3M00N/ROS3M00N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰
+⛥ Hi everyone! My name is Lucas Dutra Pereira, mostly known as ROS3M00N or V4MP_;
+⛥ I love the vampire culture: Movies, animes, video games, books, etc;
+⛥ Im a junior Game Dev and recently i've been learning some languages: C++, C, C#, Java and JavaScript;
+⛥ How you can contact me? My e-mail: lucas.dutra7162@gmail.com
+♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰
