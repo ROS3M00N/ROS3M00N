@@ -1,6 +1,6 @@
 ♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰♰
 
-⛥ Hi everyone! My name is Lucas Dutra Pereira, mostly known as ROS3M00N or V4MP_;
+⛥ Hi everyone! My name is Lucas Dutra Pereira, mostly known as ROS3M00N or Z E R Ø;
 
 ⛥ I love the vampire culture: Movies, animes, video games, books, etc;
 
