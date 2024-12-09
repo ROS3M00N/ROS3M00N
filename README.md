@@ -6,6 +6,6 @@
 
 💻 Python
 
-💻 C
+💻 Rust
 
-☎️ Contact: lucas.dutra7162@gmail.com
+☎️ lucas.dutra7162@gmail.com
